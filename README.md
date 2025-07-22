@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Deluxe
+# Tic-Tac-Toe KIDS -V3 version
 
 A modern Python GUI version of the classic Tic-Tac-Toe game, built with `tkinter`. Supports Human vs Human and Human vs AI gameplay with adjustable difficulty levels.
 
